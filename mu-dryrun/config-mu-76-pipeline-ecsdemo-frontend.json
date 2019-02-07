@@ -1,0 +1,17 @@
+{
+  "Parameters": {
+    "EnableAcptStage": "true",
+    "EnableBuildStage": "true",
+    "EnableProdStage": "true",
+    "GitHubToken": "de202a8970481146ec42825152e12db7beb53e27",
+    "MuBasedir": ".",
+    "MuDownloadVersion": "1.5.10",
+    "MuFilename": "mu.yml",
+    "Namespace": "mu-76",
+    "PipelineBucket": "",
+    "ServiceName": "ecsdemo-frontend",
+    "SourceBranch": "master",
+    "SourceProvider": "GitHub",
+    "SourceRepo": "netvisao/ecsdemo-frontend"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Parameters": {
+    "CodeDeployBucket": "",
+    "EnvironmentName": "production",
+    "Namespace": "mu-76",
+    "Provider": "ecs-fargate",
+    "ServiceName": "ecsdemo-frontend"
+  }
+}
