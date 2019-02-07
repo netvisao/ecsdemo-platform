@@ -1,0 +1,10 @@
+{
+  "Parameters": {
+    "ElbInternal": "false",
+    "ElbSubnetIds": "mu-76-vpc-production-ElbSubnetIds",
+    "EnvironmentName": "production",
+    "Namespace": "mu-76",
+    "ServiceDiscoveryName": "production.mu-76.local",
+    "VpcId": "mu-76-vpc-production-VpcId"
+  }
+}

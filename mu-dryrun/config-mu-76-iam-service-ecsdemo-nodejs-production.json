@@ -1,0 +1,9 @@
+{
+  "Parameters": {
+    "CodeDeployBucket": "mu-76-codedeploy-us-west-2-929738311190",
+    "EnvironmentName": "production",
+    "Namespace": "mu-76",
+    "Provider": "ecs-fargate",
+    "ServiceName": "ecsdemo-nodejs"
+  }
+}

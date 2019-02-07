@@ -1,0 +1,7 @@
+{
+  "Parameters": {
+    "EnvironmentName": "acceptance",
+    "Namespace": "mu-76",
+    "Provider": "ecs-fargate"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Parameters": {
+    "ElbInternal": "false",
+    "ElbSubnetIds": "mu-76-vpc-acceptance-ElbSubnetIds",
+    "EnvironmentName": "acceptance",
+    "Namespace": "mu-76",
+    "ServiceDiscoveryName": "acceptance.mu-76.local",
+    "VpcId": "mu-76-vpc-acceptance-VpcId"
+  }
+}

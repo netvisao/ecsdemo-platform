@@ -1,0 +1,24 @@
+{
+  "Parameters": {
+    "CodeBuildCDAcptRoleArn": "arn:aws:iam::929738311190:role/mu-76-pipeline-ecsdemo-nodejs-cd-acpt-us-west-2",
+    "CodeBuildCDProdRoleArn": "arn:aws:iam::929738311190:role/mu-76-pipeline-ecsdemo-nodejs-cd-prod-us-west-2",
+    "CodeBuildCIRoleArn": "arn:aws:iam::929738311190:role/mu-76-pipeline-ecsdemo-nodejs-ci-us-west-2",
+    "CodePipelineKeyArn": "arn:aws:kms:us-west-2:929738311190:key/bc26a5f6-6d59-4c9a-84c0-f5c645071033",
+    "CodePipelineRoleArn": "arn:aws:iam::929738311190:role/mu-76-pipeline-ecsdemo-nodejs-codepipeline-us-west-2",
+    "EnableAcptStage": "true",
+    "EnableBuildStage": "true",
+    "EnableProdStage": "true",
+    "GitHubToken": "de202a8970481146ec42825152e12db7beb53e27",
+    "MuAcptRoleArn": "arn:aws:iam::929738311190:role/mu-76-pipeline-ecsdemo-nodejs-mu-acpt-us-west-2",
+    "MuBasedir": ".",
+    "MuDownloadVersion": "1.5.10",
+    "MuFilename": "mu.yml",
+    "MuProdRoleArn": "arn:aws:iam::929738311190:role/mu-76-pipeline-ecsdemo-nodejs-mu-prod-us-west-2",
+    "Namespace": "mu-76",
+    "PipelineBucket": "mu-76-codepipeline-us-west-2-929738311190",
+    "ServiceName": "ecsdemo-nodejs",
+    "SourceBranch": "master",
+    "SourceProvider": "GitHub",
+    "SourceRepo": "netvisao/ecsdemo-nodejs"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Parameters": {
+    "AcptCloudFormationRoleArn": "arn:aws:iam::929738311190:role/mu-76-cloudformation-common-us-west-2",
+    "CodeDeployBucket": "mu-76-codedeploy-us-west-2-929738311190",
+    "EnableAcptStage": "true",
+    "EnableBuildStage": "true",
+    "EnableProdStage": "true",
+    "Namespace": "mu-76",
+    "PipelineBucket": "mu-76-codepipeline-us-west-2-929738311190",
+    "ProdCloudFormationRoleArn": "arn:aws:iam::929738311190:role/mu-76-cloudformation-common-us-west-2",
+    "ServiceName": "ecsdemo-nodejs",
+    "SourceProvider": "GitHub",
+    "SourceRepo": "netvisao/ecsdemo-nodejs"
+  }
+}

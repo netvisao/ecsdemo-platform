@@ -1,0 +1,13 @@
+{
+  "Parameters": {
+    "EC2InstanceProfileArn": "",
+    "ElbSecurityGroup": "sg-0f19ab8c8f1ee59f5",
+    "EnvironmentName": "production",
+    "ImageId": "ami-0d3bd9852d477ade8",
+    "InstanceSubnetIds": "mu-76-vpc-production-InstanceSubnetIds",
+    "LaunchType": "FARGATE",
+    "Namespace": "mu-76",
+    "SshAllow": "0.0.0.0/0",
+    "VpcId": "mu-76-vpc-production-VpcId"
+  }
+}

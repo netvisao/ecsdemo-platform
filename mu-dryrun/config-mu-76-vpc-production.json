@@ -1,0 +1,9 @@
+{
+  "Parameters": {
+    "AZCount": "3",
+    "ElbInternal": "false",
+    "EnvironmentName": "production",
+    "Namespace": "mu-76",
+    "SshAllow": "0.0.0.0/0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "Parameters": {
+    "EnvironmentName": "production",
+    "Namespace": "mu-76",
+    "Provider": "ecs-fargate"
+  }
+}
