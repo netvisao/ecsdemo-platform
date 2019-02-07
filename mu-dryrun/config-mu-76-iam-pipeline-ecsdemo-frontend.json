@@ -1,0 +1,15 @@
+{
+  "Parameters": {
+    "AcptCloudFormationRoleArn": "arn:aws:iam::929738311190:role/mu-76-cloudformation-common-us-west-2",
+    "CodeDeployBucket": "",
+    "EnableAcptStage": "true",
+    "EnableBuildStage": "true",
+    "EnableProdStage": "true",
+    "Namespace": "mu-76",
+    "PipelineBucket": "",
+    "ProdCloudFormationRoleArn": "arn:aws:iam::929738311190:role/mu-76-cloudformation-common-us-west-2",
+    "ServiceName": "ecsdemo-frontend",
+    "SourceProvider": "GitHub",
+    "SourceRepo": "netvisao/ecsdemo-frontend"
+  }
+}
